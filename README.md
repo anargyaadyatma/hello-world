@@ -1,8 +1,2 @@
 # hello-world
-#include <stdio.h>
-int main()
-{
-   printf("Eyy..\n");
-   printf("Hello World!\n");
-   return 0;
-}
+this is the beginning, know how to float before learn to swim and dive 
