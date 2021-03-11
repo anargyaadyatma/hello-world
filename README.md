@@ -1,4 +1,8 @@
 # hello-world
-Learning how to float before swim
-This change is made as a step before making actual
-codes and did something bigger
+#include <stdio.h>
+int main()
+{
+   printf("Eyy..\n");
+   printf("Hello World!\n");
+   return 0;
+}
